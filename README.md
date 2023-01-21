@@ -2,7 +2,7 @@
 
 When I read
 
-> I like cgi because it was popular when I was bor
+> I like cgi because it was popular when I was born
 
 in the comments of this forked project I turned into ancient dust and blew away.
 
